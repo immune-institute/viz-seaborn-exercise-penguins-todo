@@ -1,2 +1,3 @@
-# viz-seaborn-exercise-penguins-todo
-Seaborn penguins exercise
+## VISUALIZATION SEABORN EXERCISE
+
+Complete notebook exercises
